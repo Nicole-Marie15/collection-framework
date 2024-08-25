@@ -5,7 +5,8 @@ This program is a simple Java application designed to show key concepts of the J
 
 The main purpose of this program is to illustrate how to manipulate a list of numeric values using the Java Collections Framework. This project demonstrates how to create, populate, sort, search, and modify an ArrayList of Double values, as well as how to use an Iterator to traverse and print the list.
 
-Important programming concepts and tools:
+Important programming concepts and tools within this program:
+
 ArrayList: An array used to store Double values.
 Collections Class: Provides a methods for performing common operations on collections. This includes sorting and searching.
 Iterators: Used to traverse and print each element in the ArrayList.
