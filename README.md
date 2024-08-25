@@ -8,10 +8,15 @@ The main purpose of this program is to illustrate how to manipulate a list of nu
 Important programming concepts and tools within this program:
 
 ArrayList: An array used to store Double values.
+
 Collections Class: Provides a methods for performing common operations on collections. This includes sorting and searching.
+
 Iterators: Used to traverse and print each element in the ArrayList.
+
 Collections.sort: Sorts the elements of the ArrayList in ascending order.
+
 Collections.binarySearch: Searches for a specific value in the sorted list and returns its index.
+
 Collections.fill: Replaces all elements in the ArrayList with a specific value.
 
 The expected inputs of this program is to work with a predefined arraylist that contains four double values.
